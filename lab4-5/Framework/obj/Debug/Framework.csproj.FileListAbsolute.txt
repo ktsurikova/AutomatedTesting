@@ -1,0 +1,17 @@
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\bin\Debug\Framework.dll
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\bin\Debug\Framework.pdb
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\bin\Debug\WebDriver.dll
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\bin\Debug\WebDriver.Support.dll
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\bin\Debug\WebDriver.xml
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\bin\Debug\WebDriver.Support.xml
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\obj\Debug\Framework.dll
+E:\Дакумэнты\Projects\Mentoring\CityDog\Framework\obj\Debug\Framework.pdb
+D:\Work\RT\CityDog\Framework\bin\Debug\Framework.dll
+D:\Work\RT\CityDog\Framework\bin\Debug\Framework.pdb
+D:\Work\RT\CityDog\Framework\bin\Debug\WebDriver.dll
+D:\Work\RT\CityDog\Framework\bin\Debug\WebDriver.Support.dll
+D:\Work\RT\CityDog\Framework\bin\Debug\WebDriver.xml
+D:\Work\RT\CityDog\Framework\bin\Debug\WebDriver.Support.xml
+D:\Work\RT\CityDog\Framework\obj\Debug\Framework.dll
+D:\Work\RT\CityDog\Framework\obj\Debug\Framework.pdb
